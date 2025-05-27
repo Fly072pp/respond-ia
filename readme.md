@@ -1,6 +1,4 @@
-Voici un exemple de fichier **README.md** pour ton script Python de réponse automatique aux emails avec IA :
 
-````markdown
 # Répondeur Automatique d'Emails avec IA
 
 Ce script Python permet de récupérer automatiquement les emails non lus d'une boîte Gmail, d'ignorer les emails automatiques (newsletters, notifications, etc.), de générer une réponse professionnelle à l'aide d'une IA (Pollinations) et d'envoyer cette réponse par email.
