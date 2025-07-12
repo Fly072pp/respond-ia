@@ -118,7 +118,7 @@ while True:
     subject, body, sender = get_latest_email()
     if body:
         print(f"Nouveau mail de {sender} : {subject}")
-        prompt = f"Réponds à ce mail de manière professionnelle : {body}"
+        prompt = f"Repondez a cet email Choisissez le prompt  : {body}"
         ai_reply = get_ai_response(prompt)
         send_email(sender, subject, ai_reply)
     else:
